@@ -1,0 +1,19 @@
+{
+  "name": "find-php-env",
+  "version": "1.0.0",
+  "description": "Locate .env in Developion CraftCMS folder structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Developion/find-php-env.git"
+  },
+  "author": "marko.gajic@developion.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Developion/find-php-env/issues"
+  },
+  "homepage": "https://github.com/Developion/find-php-env#readme"
+}
