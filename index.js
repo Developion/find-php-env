@@ -25,3 +25,5 @@ function findSite(path = '..') {
 		return findSite(`../${path}`)
 	}
 }
+
+module.exports = findEnv
